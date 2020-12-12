@@ -1,2 +1,4 @@
+#Caso queira evitar de enviar algum arquivo ou pasta por completo, adicionar o nome do arquivo + a extensão
+#ou a pasta (adicionando todos os itens dentro dela), colocando a / + o nome da pasta
 log.txt
 /dir2
